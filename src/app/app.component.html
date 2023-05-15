@@ -1,0 +1,17 @@
+<!-- <ul>
+    <li *ngFor="let question of questions">
+        {{question.nombre}}
+        <ul>
+            <li *ngFor="let answ of question.respuestas">
+                <p>{{answ.respuesta.txtRespuesta}}</p>
+            </li>
+        </ul>
+    </li>
+</ul> -->
+
+<mat-toolbar color="primary">
+    <span>Encuesta</span>
+    <span class="example-spacer"></span>
+</mat-toolbar>
+
+<app-question [question]="questions"></app-question>

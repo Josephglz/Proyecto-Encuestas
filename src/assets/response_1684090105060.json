@@ -1,0 +1,786 @@
+{
+  "statusCode": 200,
+  "message": "Éxito en la operación",
+  "body": [
+    {
+      "idPregunta": 712,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 1,
+      "nombre": "Se dirige con respeto",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.65,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2343,
+          "idPregunta": 712,
+          "consecutivo": 4,
+          "valorRespuesta": 2.26,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2348,
+          "idPregunta": 712,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2354,
+          "idPregunta": 712,
+          "consecutivo": 1,
+          "valorRespuesta": 5.65,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2355,
+          "idPregunta": 712,
+          "consecutivo": 2,
+          "valorRespuesta": 4.52,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2356,
+          "idPregunta": 712,
+          "consecutivo": 3,
+          "valorRespuesta": 3.39,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 713,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 2,
+      "nombre": "Escucha a las personas con atención.",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2349,
+          "idPregunta": 713,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2350,
+          "idPregunta": 713,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2351,
+          "idPregunta": 713,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2352,
+          "idPregunta": 713,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2353,
+          "idPregunta": 713,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 714,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 3,
+      "nombre": "Muestra el control de sus emociones para evitar conflictos",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2357,
+          "idPregunta": 714,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2358,
+          "idPregunta": 714,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2359,
+          "idPregunta": 714,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2360,
+          "idPregunta": 714,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2361,
+          "idPregunta": 714,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 715,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 4,
+      "nombre": "Atiende con disposición al personal sin importar la jerarquía",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2362,
+          "idPregunta": 715,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2363,
+          "idPregunta": 715,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2364,
+          "idPregunta": 715,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2365,
+          "idPregunta": 715,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2366,
+          "idPregunta": 715,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 716,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 5,
+      "nombre": "Brinda apoyo cuando se le requiere ",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2367,
+          "idPregunta": 716,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2368,
+          "idPregunta": 716,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2369,
+          "idPregunta": 716,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2370,
+          "idPregunta": 716,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2371,
+          "idPregunta": 716,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 717,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 6,
+      "nombre": "Colabora con las áreas que interactúa",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2372,
+          "idPregunta": 717,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2373,
+          "idPregunta": 717,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2374,
+          "idPregunta": 717,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2375,
+          "idPregunta": 717,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2376,
+          "idPregunta": 717,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 718,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 7,
+      "nombre": "Se expresa de forma respetuosa y en privado",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2377,
+          "idPregunta": 718,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2378,
+          "idPregunta": 718,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2379,
+          "idPregunta": 718,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2380,
+          "idPregunta": 718,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2381,
+          "idPregunta": 718,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 719,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 8,
+      "nombre": "Es un referente a seguir",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2382,
+          "idPregunta": 719,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2383,
+          "idPregunta": 719,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2384,
+          "idPregunta": 719,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2385,
+          "idPregunta": 719,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2386,
+          "idPregunta": 719,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 720,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 9,
+      "nombre": "Muestra interés para el logro de objetivos",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2344,
+          "idPregunta": 720,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2345,
+          "idPregunta": 720,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2346,
+          "idPregunta": 720,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2347,
+          "idPregunta": 720,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2387,
+          "idPregunta": 720,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    },
+    {
+      "idPregunta": 721,
+      "idJerarquia": 300,
+      "idEncuesta": 20,
+      "consecutivo": 10,
+      "nombre": "Acepta diferencias de opiniones",
+      "requerido": 1,
+      "estatusPregunta": "A",
+      "valorEsperado": 5.55,
+      "tipoPregunta": {
+        "idTipoPregunta": 0,
+        "txtTipoPregunta": "Cerrada             ",
+        "descripcion": "Debe de contener valores preestablecidos con un valor cada una de las opciones",
+        "estatusTipoPregunta": "A"
+      },
+      "respuestas": [
+        {
+          "idRespuestaValor": 2388,
+          "idPregunta": 721,
+          "consecutivo": 1,
+          "valorRespuesta": 5.55,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 1,
+            "txtRespuesta": "SIEMPRE",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2389,
+          "idPregunta": 721,
+          "consecutivo": 3,
+          "valorRespuesta": 3.33,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 3,
+            "txtRespuesta": "ALGUNAS VECES",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2390,
+          "idPregunta": 721,
+          "consecutivo": 5,
+          "valorRespuesta": 0,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 5,
+            "txtRespuesta": "NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2391,
+          "idPregunta": 721,
+          "consecutivo": 4,
+          "valorRespuesta": 2.22,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 4,
+            "txtRespuesta": "CASI NUNCA",
+            "estatusRespuesta": "A"
+          }
+        },
+        {
+          "idRespuestaValor": 2392,
+          "idPregunta": 721,
+          "consecutivo": 2,
+          "valorRespuesta": 4.44,
+          "estatusRespuestaValor": "1",
+          "respuesta": {
+            "idRespuesta": 21,
+            "txtRespuesta": "MUCHAS VECES",
+            "estatusRespuesta": "A"
+          }
+        }
+      ]
+    }
+  ]
+}
